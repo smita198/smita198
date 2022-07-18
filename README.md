@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smita198
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning how to create dynamic and responsive websites, using React, Next.js...
+- 🌱 MERN stack Developer. Currently working on React.js
 - 💞️ I’m looking to collaborate on Projects related to WebDev.
 - 📫 for Collaborating or making some projects together ,mail me on @smitasinghthakur189@gmail.com .
 
